@@ -15,16 +15,16 @@ This repository contains a Python script that demonstrates file encryption and d
 
    ```bash
    git clone https://github.com/AMAN-ARABZADEH/File_Encryption_RSA
-   
-2. Install the required dependencies:
+## Installation 
+1. Install the required dependencies:
        pip install rsa
-3. Run the script:
+2. Run the script:
        python  main.py
 
 
 This will generate an RSA key pair, save the keys to files, encrypt a file (`plain.txt`), and then decrypt the encrypted file (`encrypted.txt`). The decrypted file will be saved as `decrypted.txt`.
 
-4. Customize the script:
+3. Customize the script:
 
 - Adjust the chunk sizes (`chunk_size`) in the `encrypt_file` and `decrypt_file` functions based on your requirements.
 - Modify the input and output file paths as needed.

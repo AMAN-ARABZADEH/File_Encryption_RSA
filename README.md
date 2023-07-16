@@ -33,7 +33,7 @@ This will generate an RSA key pair, save the keys to files, encrypt a file (`pla
 
 The script relies on the following dependencies:
 
-- `rsa`: A library for RSA encryption, decryption, and key generation. Visit [Python-RSA](https://stuvel.eu/python-rsa) for more information.
+- `rsa`: A library for RSA encryption, decryption, and key generation. Visit [Python-RSA](https://stuvel.eu/python-rsa-doc/) for more information.
 
 ## License
 
